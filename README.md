@@ -30,6 +30,10 @@ Run `CSSense -i` to configure it and then start CSGO.
 After having it configured you can just run it using `CSSense`.
 You can run it after CSGO is running, as long as it has been configured before.
 
+### Important
+Don't double click the ".exe". Instead `cd` to the directory holding it in your terminal and enter the commands there.
+It's also important to not remove the ".dll" shipped with it.
+
 ## Why did you make this?
 Fun.
 
