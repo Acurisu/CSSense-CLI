@@ -1,0 +1,6 @@
+[submodule "CSSense/BluetoothLEController"]
+	path = CSSense/BluetoothLEController
+	url = git@github.com:Acurisu/BluetoothLEController.git
+[submodule "CSSense/Gist"]
+	path = CSSense/Gist
+	url = https://gist.github.com/Acurisu/1805762f2c5e2ca6508c3c2dad4f3d6b

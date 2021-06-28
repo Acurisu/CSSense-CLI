@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSSense", "CSSense\CSSense.vcxproj", "{A6E48085-6124-4A7B-9F3B-CB58FE4676C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6E48085-6124-4A7B-9F3B-CB58FE4676C4}.Debug|x64.ActiveCfg = Debug|x64
+		{A6E48085-6124-4A7B-9F3B-CB58FE4676C4}.Debug|x64.Build.0 = Debug|x64
+		{A6E48085-6124-4A7B-9F3B-CB58FE4676C4}.Release|x64.ActiveCfg = Release|x64
+		{A6E48085-6124-4A7B-9F3B-CB58FE4676C4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B4C55B9-B5BB-4534-A4C8-CE0E843001F0}
+	EndGlobalSection
+EndGlobal
