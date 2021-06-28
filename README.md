@@ -22,6 +22,8 @@ It will falsely detect a weapon as being shot if you pick up the same weapon but
 It can cause quite the traffic on your PC.
 To lower the amount of traffic you can finetune throttle and buffer, but this will lead to delays or even break things.
 
+It currently only connects to newer Lovesense devices but this can be changed by updating the regex to include the old services or by matching them using their names. As I don't have any of these old devices I was not able to test this and thus did not include it.
+
 ## Setup
 Either compile it yourself or download the pre-built binaries from the releases page.
 Run `CSSense -i` to configure it and then start CSGO.
