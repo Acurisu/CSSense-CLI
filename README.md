@@ -14,6 +14,13 @@ With this tool you can play CSGO and have some additional fun (╭ರᴥ•́).
   - **Stop on Knife** temporarily sets the vibration strength to it's base as long as the player's knife is out.
 - **Burst on MVP** will set the vibration strength to it's maximum when the player got awarded as MVP.
 
+
+In the following video you can see what it would do when connected to a device (using default settings):
+
+https://user-images.githubusercontent.com/17300231/123869009-bd266600-d930-11eb-9af3-c42f64df2c8b.mp4
+
+The may be some delay in the console which is not present when running normally.
+
 ### Notes
 The CSGO gamestate integration is limited and thus some things currently can't be detected easily.
 If a player dies only base vibration gets applied. Using a bot will not change this.
@@ -29,6 +36,8 @@ Either compile it yourself or download the pre-built binaries from the releases 
 Run `CSSense -i` to configure it and then start CSGO.
 After having it configured you can just run it using `CSSense`.
 You can run it after CSGO is running, as long as it has been configured before.
+
+https://user-images.githubusercontent.com/17300231/123868556-28bc0380-d930-11eb-89ae-db828f30c01c.mp4
 
 ### Important
 Don't double click the ".exe". Instead `cd` to the directory holding it in your terminal and enter the commands there.
