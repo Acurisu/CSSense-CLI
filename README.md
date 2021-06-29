@@ -19,7 +19,7 @@ In the following video you can see what it would do when connected to a device (
 
 https://user-images.githubusercontent.com/17300231/123869009-bd266600-d930-11eb-9af3-c42f64df2c8b.mp4
 
-The may be some delay in the console which is not present when running normally.
+The console output in the video might be somewhat delayed. This does not happen when running normally.
 
 ### Notes
 The CSGO gamestate integration is limited and thus some things currently can't be detected easily.
